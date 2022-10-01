@@ -4,14 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Hello City</title>
+        <title>About-us | hello city</title>
         
 
     </head>
     <body class="">
-        <h1>Hello from Sénégal!</h1>
 
-        <p>It's currently {{date("H:i A")}} .</p>
+        <p>Build with &hearts; by LES APPRENENTS.</p>
+        <p><a href="/"> Revenir à la page d'accueil</a></p>
 
 
         <footer>
