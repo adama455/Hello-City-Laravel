@@ -6,6 +6,6 @@
 @section('contenu')
 
     <p>Build with &hearts; by LES APPRENENTS.</p>
-    <p><a href="/"> Revenir à la page d'accueil</a></p>
+    <p><a href="{{route('home')}}"> Revenir à la page d'accueil</a></p>
 
 @endsection
