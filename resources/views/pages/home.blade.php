@@ -5,11 +5,11 @@
 
 @section('contenu')
 
-    <img src="{{asset('images/drapeau-senegal.png')}}" alt="senegal">
+    <img src="{{asset('images/drapeau-senegal.png')}}" alt="senegal" class="rounded shadow_md h-40">
 
-    <h2 class="text-center">Hello from Sénégal!</h2>
+    <h1 class="text-3xl sm:text-5xl font-semibold mt-5 text-indigo-600">Hello from Sénégal!</h1>
 
-    <p>It's currently {{date("H:i A")}} .</p>
+    <p class=" text-lg text-gray-800">It's currently {{date("H:i A")}} .</p>
 
 @endsection
 
